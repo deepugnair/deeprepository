@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_3ZILcfgNEem1WpBK7oQPUg" label="test" description="alsdbh;albsid" language="java" technicalLabel="TEST" creationDate="2019-10-26T21:50:42.774+0530" author="_3ZILcvgNEem1WpBK7oQPUg" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/deepugnair/deeprepository.git&quot;,&quot;login&quot;:&quot;deepugnair3@gmail.com&quot;,&quot;passwd&quot;:&quot;IaPT5z00fCFCozLjf4k2qg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_3ZILcfgNEem1WpBK7oQPUg" label="test" description="alsdbh;albsid" language="java" technicalLabel="TEST" creationDate="2019-10-26T21:50:42.774+0530" author="_3ZILcvgNEem1WpBK7oQPUg" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/deepugnair/deeprepository.git&quot;,&quot;login&quot;:&quot;deepugnair3@gmail.com&quot;,&quot;passwd&quot;:&quot;IaPT5z00fCFCozLjf4k2qg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_4-e_sPgNEem1WpBK7oQPUg" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_4-e_sfgNEem1WpBK7oQPUg" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_4-e_svgNEem1WpBK7oQPUg" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_49qgUPgNEem1WpBK7oQPUg" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_49qgUfgNEem1WpBK7oQPUg" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_49qgUvgNEem1WpBK7oQPUg" label="validated" code="VAL"/>
     <migrationTask xmi:id="_42b28PgNEem1WpBK7oQPUg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_42b28fgNEem1WpBK7oQPUg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_42b28vgNEem1WpBK7oQPUg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -21,4 +27,7 @@
     <migrationTask xmi:id="_42b3AfgNEem1WpBK7oQPUg" id="org.talend.repository.model.migration.AddProductValuesItemMigrationTask" breaks="6.5.0" version="6.5.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_3ZILcvgNEem1WpBK7oQPUg" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_4-4oUPgNEem1WpBK7oQPUg" login="deepugnair1992@gmail.com" firstName="Deepu" lastName="Nair" type="DI" additionnalData="{}">
+    <projectAuthorization href="../C:/Program%20Files%20(x86)/Talend-Studio/studio/#/2"/>
+  </TalendProperties:User>
 </xmi:XMI>
