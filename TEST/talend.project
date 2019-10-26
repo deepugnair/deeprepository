@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_3ZILcfgNEem1WpBK7oQPUg" label="test" description="alsdbh;albsid" language="java" technicalLabel="TEST" creationDate="2019-10-26T21:50:42.774+0530" author="_3ZILcvgNEem1WpBK7oQPUg" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/deepugnair/deeprepository.git&quot;,&quot;login&quot;:&quot;deepugnair3@gmail.com&quot;,&quot;passwd&quot;:&quot;IaPT5z00fCFCozLjf4k2qg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_3ZILcvgNEem1WpBK7oQPUg" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+</xmi:XMI>
